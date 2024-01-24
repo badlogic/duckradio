@@ -1,5 +1,7 @@
 # Duck Radio
 
+![](screenshot.png)
+
 Duck Radio let's you listen to a radio stream and "duck" out news broadcasts that occur at specific times each hour for a specific
 number of minutes. During that ducking time, you can listen to an
 alternative radio stream that doesn't have news playing.
